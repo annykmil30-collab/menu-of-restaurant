@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  h1, h2, h3, .font-serif-display {
+    font-family: 'Playfair Display', Georgia, serif;
+  }
+}
+
+/* Custom subtle tropical pattern and animations */
+.bg-tropical-pattern {
+  background-color: #FAF7F2;
+  background-image: radial-gradient(#E88C7D 0.75px, transparent 0.75px), radial-gradient(#68B8B5 0.75px, #FAF7F2 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+}
+
+.text-terracotta {
+  color: #C46D4E;
+}
+
+.bg-terracotta {
+  background-color: #C46D4E;
+}
+
+.border-terracotta {
+  border-color: #C46D4E;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Entre Arepas y Ropa Vieja",
+  "description": "Colombian-Cuban fusion restaurant in Ibagué, Tolima, Colombia celebrating Caribbean warmth, authentic flavors, and modern culinary craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

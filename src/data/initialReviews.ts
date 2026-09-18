@@ -1,0 +1,40 @@
+import { CustomerReview } from '../types';
+
+export const INITIAL_REVIEWS: CustomerReview[] = [
+  {
+    id: 'rev-1',
+    name: 'Camila Restrepo',
+    date: 'Sep 12, 2026',
+    foodRating: 5,
+    serviceRating: 5,
+    atmosphereRating: 5,
+    overallRating: 5,
+    comment: 'The Cuban Arepa with slow-simmered Ropa Vieja and coastal queso blanco is legendary! Having this authentic Colombian-Cuban fusion in Ibagué is a true gastronomic gift.',
+    favoriteDish: 'Cuban Arepa',
+    status: 'published',
+  },
+  {
+    id: 'rev-2',
+    name: 'Alejandro Morales',
+    date: 'Sep 08, 2026',
+    foodRating: 5,
+    serviceRating: 5,
+    atmosphereRating: 4,
+    overallRating: 5,
+    comment: 'The Tolimense Lechón roasted with Cuban mojo and served with Caribbean Coconut Rice took me straight to the islands. Fast delivery in Cádiz neighborhood and the food arrived piping hot!',
+    favoriteDish: 'Colombian Lechón',
+    status: 'published',
+  },
+  {
+    id: 'rev-3',
+    name: 'Elena & David Torres',
+    date: 'Aug 29, 2026',
+    foodRating: 5,
+    serviceRating: 4,
+    atmosphereRating: 5,
+    overallRating: 5,
+    comment: 'Celebrated my birthday here and got the 15% birthday treat! The Passion Fruit Mojitos and Cuban Flan with dulce de leche are unbelievable. Warmest hospitality in Tolima.',
+    favoriteDish: 'Passion Fruit Mojito',
+    status: 'published',
+  },
+];
