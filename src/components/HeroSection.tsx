@@ -102,7 +102,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
               {/* Decorative Frame */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white aspect-16/11 bg-[#FAF4ED]">
                 <img
-                  src="/src/assets/images/hero_fusion_spread_1789756993190.jpg"
+                  src="/images/hero_fusion_spread_1789756993190.jpg"
                   alt="Colombian-Cuban fusion banquet spread with arepas, ropa vieja, lechón, and tropical cocktails in Ibagué"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"

@@ -76,7 +76,7 @@ export const BuildYourOrder: React.FC<BuildYourOrderProps> = ({ onAddCustomCombo
       shortDescription: `Custom crafted Colombian-Cuban fusion platter with ${selectedBase.name} and ${selectedProtein.name}.`,
       detailedDescription: `Personalized feast assembled with ${selectedBase.name}, loaded with ${selectedProtein.name}, topped with ${selectedToppings.map(t => t.name).join(', ') || 'signature herbs'}, and dressed with ${selectedSauces.map(s => s.name).join(', ') || 'house mojo'}.`,
       ingredients: [selectedBase.name, selectedProtein.name, ...selectedToppings.map(t => t.name), ...selectedSauces.map(s => s.name)],
-      imageUrl: '/src/assets/images/cuban_arepa_fusion_1789757004820.jpg',
+      imageUrl: '/images/cuban_arepa_fusion_1789757004820.jpg',
       estimatedServingSize: '450g custom platter',
       calories: 650 + (selectedToppings.length * 45),
       nutritionalInfo: {

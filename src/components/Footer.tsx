@@ -30,7 +30,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
             <div className="pt-2 text-xs text-[#E8DCCF] space-y-1.5">
               <div className="flex items-center gap-2">
                 <MapPin className="w-4 h-4 text-[#C46D4E] shrink-0" />
-                <span>Carrera 5 #42-10, Ibagué, Tolima, Colombia</span>
+                <span>Plazoleta de Calambeo, junto al Mercacentro, Ibagué, Tolima, Colombia</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-[#68B8B5] shrink-0" />

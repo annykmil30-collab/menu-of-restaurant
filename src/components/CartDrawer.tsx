@@ -115,6 +115,11 @@ export const CartDrawer: React.FC<CartDrawerProps> = ({
                       src={item.product.imageUrl}
                       alt={item.product.name}
                       referrerPolicy="no-referrer"
+                      onError={(e) => {
+                        const target = e.currentTarget;
+                        target.onerror = null;
+                        target.src = '/images/hero_fusion_spread_1789756993190.jpg';
+                      }}
                       className="w-12 h-12 rounded-xl object-cover border border-[#EFE5D9] shrink-0"
                     />
                     <div>

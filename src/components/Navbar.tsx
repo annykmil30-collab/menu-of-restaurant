@@ -254,13 +254,13 @@ export const Navbar: React.FC<NavbarProps> = ({
               onClick={() => handleNavClick('contact')}
               className="text-left px-3 py-2 rounded-lg text-sm font-medium text-[#4A3E37] hover:bg-[#F2EAE0]"
             >
-              Contact & Location (Ibagué)
+              Contact & Location (Calambeo, Ibagué)
             </button>
           </div>
 
           <div className="pt-3 border-t border-[#E8DCCF] flex items-center justify-between text-xs text-[#6B5D55]">
             <span>Phone: {RESTAURANT_PHONE}</span>
-            <span>Ibagué, Tolima</span>
+            <span>Plazoleta de Calambeo, Ibagué</span>
           </div>
         </div>
       )}

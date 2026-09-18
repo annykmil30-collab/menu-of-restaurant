@@ -33,8 +33,8 @@ export const ContactSection: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-base text-[#2C2420]">Physical Location</h4>
-                  <p className="text-sm text-[#554740] mt-0.5">
-                    Carrera 5 #42-10, Zona Gastronómica / El Vergel
+                  <p className="text-sm font-semibold text-[#2C2420] mt-0.5">
+                    Plazoleta de Calambeo, junto al Mercacentro
                   </p>
                   <span className="text-xs font-semibold text-[#C46D4E] block mt-1">
                     Ibagué, Tolima, Colombia
@@ -145,7 +145,7 @@ export const ContactSection: React.FC = () => {
                   Map & Delivery Zones in Ibagué
                 </span>
                 <span className="text-xs bg-[#E8F4F3] text-[#2D7D7A] font-semibold px-2.5 py-1 rounded-lg">
-                  Tolima, Colombia
+                  Plazoleta de Calambeo
                 </span>
               </div>
 
@@ -153,8 +153,8 @@ export const ContactSection: React.FC = () => {
               <div className="relative rounded-2xl overflow-hidden border border-[#E3D8CC] aspect-16/10 bg-[#FAF4ED] mb-4 shadow-inner">
                 {/* Stylized Google Map Frame for Ibagué */}
                 <iframe
-                  title="Entre Arepas y Ropa Vieja Location in Ibagué"
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63673.344154443744!2d-75.25301886866299!3d4.438891515286598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e38c493010b9bf3%3A0x67c29668478d103b!2zSWJhZ3LDqSwgVG9saW1hLCBDb2xvbWJpYQ!5e0!3m2!1sen!2sco!4v1710000000000!5m2!1sen!2sco"
+                  title="Entre Arepas y Ropa Vieja en Plazoleta de Calambeo, Ibagué"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15918.239247656977!2d-75.2472!3d4.4452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e38c493010b9bf3%3A0x67c29668478d103b!2sCalambeo%2C%20Ibagu%C3%A9%2C%20Tolima!5e0!3m2!1ses!2sco!4v1710000000000!5m2!1ses!2sco"
                   className="w-full h-full border-0 filter contrast-105"
                   loading="lazy"
                 />

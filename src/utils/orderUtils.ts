@@ -178,7 +178,7 @@ export function buildOrderNotificationText(order: Order): string {
   lines.push(`TOTAL: ${formatCOP(order.total)}`);
   lines.push(`================================`);
   lines.push(`Restaurant Phone: ${RESTAURANT_PHONE}`);
-  lines.push(`Location: Ibagué, Tolima, Colombia`);
+  lines.push(`Location: Plazoleta de Calambeo, junto al Mercacentro, Ibagué, Tolima, Colombia`);
 
   return lines.join('\n');
 }

@@ -13,13 +13,13 @@ interface CheckoutModalProps {
 }
 
 const IBAGUE_NEIGHBORHOODS = [
+  'Calambeo (Plazoleta / Mercacentro)',
   'El Vergel',
   'Cádiz',
   'Centro / Plaza de Bolívar',
   'La Pola',
   'Piedra Pintada',
   'Belén',
-  'Calambeo',
   'Salado / El Salado',
   'Interlaken',
   'Santa Helena',
@@ -351,7 +351,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
 
             {orderType === 'Take Away' && (
               <div className="p-3 rounded-xl bg-[#FAF7F2] border border-[#EDE2D5] text-xs text-[#6B5D55]">
-                Pick-up Address: <strong>Carrera 5 #42-10, Ibagué, Tolima</strong>. Your order will be prepared hot and sealed for takeaway in approximately 20–25 minutes.
+                Pick-up Address: <strong>Plazoleta de Calambeo, junto al Mercacentro, Ibagué, Tolima</strong>. Your order will be prepared hot and sealed for takeaway in approximately 20–25 minutes.
               </div>
             )}
 

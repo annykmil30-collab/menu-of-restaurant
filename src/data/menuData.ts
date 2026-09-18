@@ -10,7 +10,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Signature artisanal white corn arepa stuffed with Cuban shredded ropa vieja beef, melted coastal cheese, and fresh avocado.',
     detailedDescription: 'A groundbreaking culinary synthesis honoring Colombia’s sacred corn arepa tradition and Cuba’s iconic braised flank steak. Freshly griddled organic Tolimense white corn arepa split open and loaded with slow-simmered Cuban Ropa Vieja (flank steak braised in ripe tomatoes, bell peppers, garlic, and Spanish olives), finished with melted Colombian Queso Costeño, ripe avocado wedges, and a gentle drizzle of garlic-cilantro mojo.',
     ingredients: ['Tolimense White Corn Masa', 'Slow-Braised Flank Steak (Ropa Vieja)', 'Cuban Sofrito (Tomatoes, Sweet Peppers, Garlic, Cumin)', 'Colombian Queso Costeño', 'Hass Avocado', 'Garlic-Cilantro Emulsion'],
-    imageUrl: '/src/assets/images/cuban_arepa_fusion_1789757004820.jpg',
+    imageUrl: '/images/cuban_arepa_fusion_1789757004820.jpg',
     estimatedServingSize: '1 generous stuffed arepa (380g)',
     calories: 590,
     nutritionalInfo: {
@@ -35,7 +35,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Tolimense-style slow-roasted suckling pork with crackling crispy skin, infused with Havana sour orange mojo and coconut rice.',
     detailedDescription: 'Paying homage to Tolima’s most celebrated gastronomic masterpiece infused with Cuban citrus heritage. Tender pork belly and shoulder marinated for 24 hours in Cuban bitter orange (naranja agria), crushed garlic, oregano, and cumin. Slow-roasted over 8 hours until the skin reaches an acoustic golden crackle, served over savory yellow pea rice, accompanied by sweet fried plantain maduros and a ramekin of zesty garlic mojo.',
     ingredients: ['Heritage Pork Belly & Shoulder', 'Tolima Yellow Peas & Spiced Rice', 'Cuban Bitter Orange Mojo Glaze', 'Toasted Garlic & Cumin', 'Sweet Plantains (Maduros)', 'Lime Wedges'],
-    imageUrl: '/src/assets/images/colombian_lechon_pork_1789757016919.jpg',
+    imageUrl: '/images/colombian_lechon_pork_1789757016919.jpg',
     estimatedServingSize: '450g platter',
     calories: 780,
     nutritionalInfo: {
@@ -60,7 +60,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Fragrant jasmine rice sautéed in rich coconut milk, sweet plantains, sofrito, and Cuban moro-spiced black beans.',
     detailedDescription: 'A celebratory pot of coastal Caribbean rice that unites Colombian titoté (caramelized coconut reduction) with the velvety depth of Cuban Moros y Cristianos. Prepared with fluffy long-grain rice, sweet raisins, diced fried plantain, vibrant Cuban sofrito, and tender black beans, crowned with grilled coastal cheese cubes and fresh cilantro sprigs.',
     ingredients: ['Coconut Milk & Caramelized Titoté', 'Long Grain Jasmine Rice', 'Cuban Black Beans', 'Sweet Plantains', 'Hogao (Tomato & Scallion)', 'Fresh Cilantro & Lime'],
-    imageUrl: '/src/assets/images/caribbean_rice_1789757907078.jpg',
+    imageUrl: '/images/caribbean_rice_1789757907078.jpg',
     estimatedServingSize: '420g',
     calories: 620,
     nutritionalInfo: {
@@ -85,7 +85,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Tender shredded beef simmered in Cuban sofrito of ripe tomatoes, sweet bell peppers, Spanish pimento, and white wine.',
     detailedDescription: 'The national dish of Cuba executed with Colombian warmth. Premium flank steak gently simmered until fork-shredded, then stewed in a rich reduction of vine tomatoes, sweet Cubanelle peppers, onions, Spanish capers, pimiento olives, and dry white wine. Served alongside fluffy white rice, golden fried yucca, and black beans.',
     ingredients: ['Braised Shredded Flank Steak', 'Ripe Plum Tomatoes', 'Sweet Peppers & Red Onions', 'Spanish Olives & Capers', 'Garlic & Cumin', 'White Rice & Steamed Yucca'],
-    imageUrl: '/src/assets/images/cuban_ropa_vieja_1789757894309.jpg',
+    imageUrl: '/images/cuban_ropa_vieja_1789757894309.jpg',
     estimatedServingSize: '430g',
     calories: 640,
     nutritionalInfo: {
@@ -110,7 +110,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Traditional Andean chicken and 3-potato soup with fresh guasca herbs, sweet corn on the cob, capers, and milk cream.',
     detailedDescription: 'Colombia’s most beloved hearty comfort soup. A velvety broth made from three native Andean potato varieties (Criolla, Pastusa, and Sabanera), tender shredded farm chicken, sweet tender corn on the cob, and aromatic Andean guascas herb. Served with fresh avocado slices, capers, and a dollop of thick heavy cream.',
     ingredients: ['Shredded Farm Chicken Breast', 'Papa Criolla, Pastusa & Sabanera', 'Native Guascas Herb', 'Sweet Corn (Mazorca)', 'Hass Avocado', 'Capers & Heavy Cream'],
-    imageUrl: '/src/assets/images/colombian_ajiaco_1789757957413.jpg',
+    imageUrl: '/images/colombian_ajiaco_1789757957413.jpg',
     estimatedServingSize: '500ml soup bowl with accompaniments',
     calories: 540,
     nutritionalInfo: {
@@ -135,7 +135,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Tender chicken breast stewed in fresh coconut milk, sweet peppers, turmeric, and lime, paired with crispy tostones.',
     detailedDescription: 'Pan-seared tender chicken breasts bathed in a rich, slow-simmered Caribbean coconut sauce flavored with roasted garlic, turmeric, ginger, sweet bell peppers, and fresh lime zest. Paired with crispy double-fried green plantain patacones and a vibrant garden salad.',
     ingredients: ['Free-Range Chicken Breast', 'Pressed Coconut Milk', 'Sweet Peppers & Scallions', 'Ginger & Fresh Turmeric', 'Green Plantains', 'Lime & Cilantro'],
-    imageUrl: '/src/assets/images/coconut_chicken_1789757983242.jpg',
+    imageUrl: '/images/coconut_chicken_1789757983242.jpg',
     estimatedServingSize: '400g',
     calories: 610,
     nutritionalInfo: {
@@ -160,7 +160,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Classic Havana spiced minced beef cooked with sweet raisins, green Spanish olives, capers, and Colombian hogao.',
     detailedDescription: 'A classic Havana family recipe elevated with fresh Tolimense tomato and scallion hogao. Lean ground beef sautéed with aromatic garlic, cumin, sweet golden raisins, Spanish manzanilla olives, and capers in a savory tomato glaze. Served with white rice, sweet plantains, and a golden sunny-side-up farm egg.',
     ingredients: ['Lean Ground Beef', 'Tomato Sofrito & Colombian Hogao', 'Green Olives & Capers', 'Golden Raisins', 'Cumin & Oregano', 'Farm Egg & White Rice'],
-    imageUrl: '/src/assets/images/cuban_picadillo_1789757969525.jpg',
+    imageUrl: '/images/cuban_picadillo_gourmet.jpg',
     estimatedServingSize: '410g',
     calories: 660,
     nutritionalInfo: {
@@ -185,7 +185,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Three giant crispy green plantain discs topped with Cuban ropa vieja, guacamole criollo, and coastal cheese.',
     detailedDescription: 'Hand-pressed giant green plantains twice-fried to golden crispy perfection, layered with generous portions of savory Cuban Ropa Vieja shredded beef, rustic Colombian guacamole made with Hass avocado and lime, and finished with grated salty Queso Costeño and pickled red onions.',
     ingredients: ['Green Plantains (Plátano Verde)', 'Cuban Ropa Vieja Shredded Beef', 'Rustic Guacamole Criollo', 'Queso Costeño', 'Pickled Red Onions', 'Garlic Mojo Drizzle'],
-    imageUrl: '/src/assets/images/patacones_con_ropavieja_1789757945318.jpg',
+    imageUrl: '/images/patacones_con_ropavieja_1789757945318.jpg',
     estimatedServingSize: '3 large topped patacones (360g)',
     calories: 580,
     nutritionalInfo: {
@@ -210,7 +210,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Pacific and Caribbean coastal seafood medley simmered with coconut rice, achiote, sweet peppers, and white wine.',
     detailedDescription: 'A tribute to the Caribbean coastlines of Colombia and Cuba. Fresh plump prawns, tender calamari rings, and white fish simmered with achiote-infused coconut rice, sweet ají dulce peppers, scallions, and dry white wine, garnished with fried plantain chips and lemon crowns.',
     ingredients: ['Plump Wild Shrimp & Squid Rings', 'Fresh White Fish Fillet', 'Coconut Jasmine Rice', 'Achiote Oil & Sweet Ají Dulce', 'Fresh Cilantro & Lime'],
-    imageUrl: 'https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/caribbean_seafood_rice_gourmet.jpg',
     estimatedServingSize: '460g',
     calories: 630,
     nutritionalInfo: {
@@ -235,7 +235,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Ultimate carnivore feast with roasted lechón, Cuban ropa vieja, Colombian chorizo, Morcilla, arepa, and yuca al mojo.',
     detailedDescription: 'The ultimate shared table banquet. Sizzling Colombian-style chorizo with lime, tender slow-roasted lechón pork, savory Cuban ropa vieja, artisanal blood sausage (morcilla tolimense), grilled corn arepa, boiled yuca bathed in Havana garlic mojo, and crispy patacón.',
     ingredients: ['Roasted Pork Lechón', 'Cuban Ropa Vieja Beef', 'Tolima Artisanal Chorizo', 'Tolima Morcilla', 'Boiled Yuca with Garlic Mojo', 'White Corn Arepa'],
-    imageUrl: '/src/assets/images/colombian_cuban_grill_1789758032114.jpg',
+    imageUrl: '/images/colombian_cuban_grill_1789758032114.jpg',
     estimatedServingSize: '580g feast',
     calories: 920,
     nutritionalInfo: {
@@ -262,7 +262,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Warm dinner bowl featuring Cuban ropa vieja, grilled arepa croutons, avocado, black beans, and mojo crema.',
     detailedDescription: 'Crafted for our evening dinner service menu (available during activated dinner events). Tender braised flank steak over warm spiced quinoa and black beans, roasted corn niblets, avocado slices, and golden arepa points.',
     ingredients: ['Cuban Braised Beef', 'Black Beans & Quinoa', 'Grilled Arepa points', 'Avocado', 'Garlic Mojo Crema'],
-    imageUrl: '/src/assets/images/cuban_ropa_vieja_1789757894309.jpg',
+    imageUrl: '/images/nocturnal_havana_bowl_gourmet.jpg',
     estimatedServingSize: '400g bowl',
     calories: 590,
     nutritionalInfo: {
@@ -288,7 +288,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Pan-seared salmon fillet basted in mango-passion fruit glaze over coconut mashed yucca and charred asparagus.',
     detailedDescription: 'An elegant dinner creation. Crispy skin salmon fillet glazed with an reductions of Colombian passion fruit and Cuban mango, served on a bed of velvety coconut milk-infused yucca purée with grilled asparagus.',
     ingredients: ['Fresh Salmon Fillet', 'Passion Fruit & Mango Glaze', 'Yucca Root & Coconut Milk', 'Grilled Asparagus', 'Microgreens'],
-    imageUrl: 'https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/caribbean_salmon_glaze_1789762549404.jpg',
     estimatedServingSize: '380g',
     calories: 560,
     nutritionalInfo: {
@@ -316,7 +316,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Authentic Ibagué tamal wrapped in banana leaves with chicken, pork, egg, and yellow peas, served with hot corn arepa.',
     detailedDescription: 'The sacred Tolimense morning ritual. A generous tamal slowly steamed inside fresh banana leaves, filled with tender chicken, marinated pork rib, hard-boiled egg, yellow peas, and spiced corn masa, served steaming hot alongside a fresh white corn arepa and hot dipping chocolate or coffee.',
     ingredients: ['Tolima Corn Masa', 'Seasoned Pork Rib & Chicken', 'Yellow Split Peas & Carrots', 'Farm Egg', 'Steamed Banana Leaf', 'White Corn Arepa'],
-    imageUrl: '/src/assets/images/tamal_tolimense_1789757918610.jpg',
+    imageUrl: '/images/tamal_tolimense_1789757918610.jpg',
     estimatedServingSize: '450g tamal + arepa',
     calories: 680,
     nutritionalInfo: {
@@ -341,7 +341,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Warm pressed crusty Cuban bread with roasted pork, sweet ham, Swiss cheese, fried egg, and sweet plantain ribbons.',
     detailedDescription: 'A Havana street classic reimagined for breakfast. Crusty Cuban bread spread with yellow mustard and butter, layered with tender sliced mojo pork, cured ham, melted Swiss cheese, sweet fried maduro plantains, and a fried egg, hot-pressed to crispy golden perfection.',
     ingredients: ['Crusty Cuban Bread', 'Mojo Roasted Pork & Sweet Ham', 'Swiss Cheese', 'Farm Egg', 'Sweet Fried Plantains', 'Yellow Mustard & Butter'],
-    imageUrl: '/src/assets/images/cuban_sandwich_1789757931543.jpg',
+    imageUrl: '/images/cuban_sandwich_1789757931543.jpg',
     estimatedServingSize: '320g sandwich',
     calories: 620,
     nutritionalInfo: {
@@ -366,7 +366,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Traditional Colombian morning rice and Cuban black bean skillet with shredded ropa vieja, fried egg, and arepa con queso.',
     detailedDescription: 'The ultimate sunrise fuel combining Colombia’s calentado tradition with Cuban Moros y Cristianos. Sautéed rice and tender black beans with Colombian hogao, topped with shredded savory ropa vieja beef, a sunny-side farm egg, crispy pork chicharrón, and a grilled arepa topped with melted cheese.',
     ingredients: ['Sautéed Black Beans & Rice', 'Shredded Ropa Vieja Beef', 'Colombian Hogao Sauce', 'Fried Egg', 'Crispy Pork Belly Chicharrón', 'Cheese-Topped Arepa'],
-    imageUrl: '/src/assets/images/calentado_habana_1789757993192.jpg',
+    imageUrl: '/images/calentado_habana_1789757993192.jpg',
     estimatedServingSize: '480g breakfast skillet',
     calories: 740,
     nutritionalInfo: {
@@ -393,7 +393,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Sweet ripe plantain fritters stuffed with melted coastal cheese and Colombian guava paste (bocadillo).',
     detailedDescription: 'A heavenly sweet-and-savory afternoon Colombian delicacy. Ripe sweet plantains mashed and stuffed with gooey Queso Costeño and sweet red guava fruit paste, dipped in a light batter and fried golden brown.',
     ingredients: ['Ripe Sweet Plantains (Maduros)', 'Colombian Queso Costeño', 'Bocadillo (Guava Paste)', 'Crispy Light Batter'],
-    imageUrl: '/src/assets/images/colombian_aborrajado_1789757882908.jpg',
+    imageUrl: '/images/colombian_aborrajado_1789757882908.jpg',
     estimatedServingSize: '2 large fritters (200g)',
     calories: 420,
     nutritionalInfo: {
@@ -420,7 +420,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Pure refreshing chilled coconut water served fresh with tender coconut shavings and a touch of lime.',
     detailedDescription: 'Chilled natural coconut water sourced from the Colombian Caribbean coast, served over ice with ribbons of tender young coconut jelly and a fragrant squeeze of fresh green lime.',
     ingredients: ['100% Pure Coconut Water', 'Young Coconut Meat', 'Fresh Lime Juice', 'Crushed Ice'],
-    imageUrl: 'https://images.unsplash.com/photo-1525385133512-2f3bdd039054?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/caribbean_pina_colada_1789762580206.jpg',
     estimatedServingSize: '350ml glass',
     calories: 95,
     nutritionalInfo: {
@@ -446,7 +446,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Signature Cuban cocktail with aged rum, fresh Colombian maracuyá (passion fruit), crushed mint, and sparkling soda.',
     detailedDescription: 'A cocktail masterclass blending Havana’s mojito tradition with Colombia’s intensely aromatic passion fruit (maracuyá). Crafted with aged Caribbean rum, freshly pressed hierbabuena mint leaves, pure passion fruit pulp, raw cane sugar, fresh lime, and topped with fizzy club soda.',
     ingredients: ['Aged Caribbean Rum (40ml)', 'Fresh Passion Fruit (Maracuyá) Pulp', 'Fresh Spearmint (Hierbabuena)', 'Pure Cane Sugar', 'Fresh Lime', 'Sparkling Soda'],
-    imageUrl: 'https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/passion_fruit_mojito_1789762570476.jpg',
     estimatedServingSize: '380ml glass',
     calories: 185,
     nutritionalInfo: {
@@ -472,7 +472,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Thick, creamy juice made from sun-ripened tropical mangoes blended with fresh crushed spearmint.',
     detailedDescription: 'Pure tropical bliss in a tall chilled glass. Ripe Tolimense mangoes blended with ice and garden-fresh spearmint leaves into a velvety, refreshing smoothie-like nectar with no artificial syrups.',
     ingredients: ['Ripe Colombian Mango Pulp', 'Garden Spearmint', 'Purified Water or Milk Option', 'Hint of Panela Sweetener', 'Ice'],
-    imageUrl: 'https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/colombian_mango_juice.jpg',
     estimatedServingSize: '400ml glass',
     calories: 145,
     nutritionalInfo: {
@@ -498,7 +498,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Single-origin Tolima specialty coffee brewed fresh, highlighting caramel, chocolate, and floral citrus notes.',
     detailedDescription: 'Grown in the volcanic highlands of Tolima. Freshly ground 100% Arabica beans brewed via traditional drip method (filtro) or espresso, presenting a smooth body with sweet notes of brown panela, red berries, and cocoa.',
     ingredients: ['Single-Origin Tolima Arabica Beans', 'Filtered Mountain Water'],
-    imageUrl: 'https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/colombian_tinto_coffee_1789762600273.jpg',
     estimatedServingSize: '200ml cup',
     calories: 5,
     nutritionalInfo: {
@@ -524,7 +524,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Intense, velvety dark espresso whipped with demerara sugar to create a signature sweet golden foam (espumita).',
     detailedDescription: 'An authentic Havana staple. Rich, dark-roasted espresso brewed hot and vigorously whipped with natural demerara cane sugar into a frothy, sweet golden crema called espumita. Unbelievably rich and bold.',
     ingredients: ['Dark Roasted Cuban Espresso', 'Natural Demerara Cane Sugar (Espumita)'],
-    imageUrl: 'https://images.unsplash.com/photo-1517256064527-09c73fc73e38?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/cuban_cortadito_coffee_1789762611227.jpg',
     estimatedServingSize: '90ml colada cup',
     calories: 45,
     nutritionalInfo: {
@@ -550,7 +550,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Creamy Colombian coastal frozen beverage blending tart green limes with velvety coconut cream.',
     detailedDescription: 'Colombia’s most celebrated coastal drink. Whole fresh green limes flash-blended with rich coconut cream, crushed ice, and sweet condensed milk into a frosty, sweet-and-tart tropical cloud.',
     ingredients: ['Fresh Green Limes', 'Pure Coconut Cream', 'Condensed Milk', 'Crushed Ice'],
-    imageUrl: '/src/assets/images/limonada_de_coco_1789758004521.jpg',
+    imageUrl: '/images/limonada_de_coco_1789758004521.jpg',
     estimatedServingSize: '400ml frozen glass',
     calories: 220,
     nutritionalInfo: {
@@ -576,7 +576,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Golden sweet Tolimense pineapple juice infused with fresh ginger and crushed mint leaves.',
     detailedDescription: 'Naturally sweet golden pineapple freshly cold-pressed with a gentle kick of ginger root and fresh garden mint leaves over ice.',
     ingredients: ['Tolima Golden Pineapple', 'Ginger Root', 'Mint Leaves', 'Ice'],
-    imageUrl: 'https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/tropical_pineapple_juice_gourmet.jpg',
     estimatedServingSize: '380ml glass',
     calories: 120,
     nutritionalInfo: {
@@ -602,7 +602,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Refreshing pink Colombian guava purée shaken with fresh lime juice, panela cane sugar, and rosemary.',
     detailedDescription: 'Vibrant pink Colombian guava nectar married with tart key limes and organic panela sugar, served over hand-cracked ice with a sprig of fresh rosemary.',
     ingredients: ['Pink Guava Purée', 'Fresh Lime Juice', 'Panela Sugar Syrup', 'Rosemary Garnish'],
-    imageUrl: 'https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/guava_lemonade_gourmet.jpg',
     estimatedServingSize: '380ml glass',
     calories: 135,
     nutritionalInfo: {
@@ -628,7 +628,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Chilled Caribbean hibiscus flower brew spiced with cinnamon quill, orange zest, and sweet panela.',
     detailedDescription: 'Steeped ruby red hibiscus petals (flor de Jamaica) cooled with Ceylon cinnamon, fresh Valencia orange slices, and Colombian panela cane sugar. Tart, sweet, and deeply refreshing.',
     ingredients: ['Wild Hibiscus Petals', 'Ceylon Cinnamon Quill', 'Orange Slices', 'Panela Cane Sugar'],
-    imageUrl: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/cuban_cuba_libre_1789762590552.jpg',
     estimatedServingSize: '380ml glass',
     calories: 85,
     nutritionalInfo: {
@@ -654,7 +654,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Non-alcoholic version of our Caribbean mojito with passion fruit, coconut water, fresh mint, and lime.',
     detailedDescription: 'The full spirit of the Caribbean without alcohol. Fresh passion fruit pulp, hydrating coconut water, muddled garden spearmint, lime wheels, and fizzy mineral water sweetened with cane sugar.',
     ingredients: ['Passion Fruit Pulp', 'Fresh Coconut Water', 'Muddled Spearmint', 'Key Lime Juice', 'Cane Sugar', 'Sparkling Mineral Water'],
-    imageUrl: 'https://images.unsplash.com/photo-1536935338788-846bb9981813?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/virgin_tropical_mojito_gourmet.jpg',
     estimatedServingSize: '380ml glass',
     calories: 110,
     nutritionalInfo: {
@@ -682,7 +682,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Ultra-moist airy sponge cake soaked in condensed milk, evaporated milk, and heavy cream with cinnamon meringue.',
     detailedDescription: 'The quintessential Latin American dessert perfected. Light sponge cake pricked and drenched in a harmonious mixture of whole evaporated milk, sweet condensed milk, and fresh Tolimense heavy cream, crowned with toasted meringue and dusted with ground Ceylon cinnamon.',
     ingredients: ['Airy Sponge Cake', 'Sweet Condensed Milk', 'Evaporated Milk', 'Heavy Dairy Cream', 'Fluffy Egg White Meringue', 'Ground Cinnamon'],
-    imageUrl: '/src/assets/images/traditional_tres_leches_1789758054319.jpg',
+    imageUrl: '/images/traditional_tres_leches_1789758054319.jpg',
     estimatedServingSize: '1 generous square slice (190g)',
     calories: 420,
     nutritionalInfo: {
@@ -707,7 +707,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Velvety, dense caramel custard prepared Cuban-style with whole vanilla bean and rich amber caramel syrup.',
     detailedDescription: 'Authentic Havana flan distinct for its luxurious density and silky smooth texture. Baked gently in a water bath with farm egg yolks, sweetened condensed milk, whole milk, and real vanilla beans, inverted so rich amber caramel syrup flows gracefully over the top.',
     ingredients: ['Farm Egg Yolks', 'Sweetened Condensed Milk', 'Whole Milk', 'Pure Bourbon Vanilla', 'Amber Caramelized Sugar'],
-    imageUrl: '/src/assets/images/cuban_caramel_flan_1789758043174.jpg',
+    imageUrl: '/images/cuban_caramel_flan_1789758043174.jpg',
     estimatedServingSize: '1 individual flan round (175g)',
     calories: 360,
     nutritionalInfo: {
@@ -732,7 +732,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Warm dark chocolate molten lava cake made with Tolima cacao, with a flowing chocolate center and vanilla cream.',
     detailedDescription: 'Decadent warm dark chocolate cake crafted with 70% single-origin Colombian cacao from the mountains of Tolima. Upon breaking the exterior, a rich river of warm molten chocolate flows out, accompanied by a scoop of artisanal vanilla bean ice cream.',
     ingredients: ['70% Tolima Dark Chocolate', 'Farm Butter & Eggs', 'Organic Cane Sugar', 'Artisanal Vanilla Ice Cream', 'Fresh Mint Garnish'],
-    imageUrl: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/chocolate_volcano_cake_gourmet.jpg',
     estimatedServingSize: '1 warm cake + ice cream (210g)',
     calories: 510,
     nutritionalInfo: {
@@ -757,7 +757,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Tropical spin on tres leches featuring rich coconut cream soak, toasted coconut flakes, and passion fruit drizzle.',
     detailedDescription: 'Spongy vanilla cake steeped in sweet coconut milk, condensed milk, and heavy cream. Topped with whipped coconut cream, toasted golden coconut flakes, and a bright tart Colombian passion fruit reduction.',
     ingredients: ['Vanilla Sponge', 'Pressed Coconut Milk', 'Sweet Condensed Milk', 'Toasted Coconut Flakes', 'Passion Fruit Coulis'],
-    imageUrl: 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/coconut_tres_leches_gourmet.jpg',
     estimatedServingSize: '1 slice (195g)',
     calories: 430,
     nutritionalInfo: {
@@ -782,7 +782,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Tender candied pink guava shells simmered in spiced syrup, served with creamy Colombian white coastal cheese.',
     detailedDescription: 'A nostalgic favorite across both Cuban and Colombian homes. Candied pink guava halves poached in a fragrant cinnamon-clove sugar syrup, paired with thick slices of savory, salty Colombian coastal cheese for an addictive sweet-salty harmony.',
     ingredients: ['Candied Pink Guava Shells', 'Cinnamon & Clove Infused Cane Syrup', 'Fresh Colombian Queso Costeño'],
-    imageUrl: 'https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/cascos_de_guayaba_1789762686642.jpg',
     estimatedServingSize: '180g plate',
     calories: 290,
     nutritionalInfo: {
@@ -807,7 +807,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Silky baked cream cheese cake with coconut biscuit crust and vibrant sweet Colombian mango glaze.',
     detailedDescription: 'Velvety smooth cream cheese infused with coconut cream, set atop a toasted coconut cookie crumb crust, finished with a luscious mirror glaze of ripe Tolima mangoes and fresh edible flower petals.',
     ingredients: ['Philadelphia Cream Cheese', 'Pressed Coconut Cream', 'Toasted Cookie Crumb Base', 'Fresh Mango Mirror Glaze', 'Edible Orchid Petals'],
-    imageUrl: 'https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/mango_coconut_cheesecake.jpg',
     estimatedServingSize: '1 slice (185g)',
     calories: 460,
     nutritionalInfo: {
@@ -832,7 +832,7 @@ export const MENU_PRODUCTS: Product[] = [
     shortDescription: 'Warm or chilled creamy short-grain rice simmered with coconut milk, lime peel, cinnamon, and raisins.',
     detailedDescription: 'Slow-simmered short-grain Valencian rice steeped in rich coconut milk, condensed milk, sweet cinnamon sticks, and lime zest. Studded with plump golden raisins and served with a generous sprinkle of toasted cinnamon.',
     ingredients: ['Short Grain Rice', 'Coconut Milk & Evaporated Milk', 'Sweetened Condensed Milk', 'Golden Raisins', 'Cinnamon Quills & Lime Peel'],
-    imageUrl: 'https://images.unsplash.com/photo-1517427294546-5aa121f68e8a?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: '/images/arroz_con_leche_1789762699772.jpg',
     estimatedServingSize: '200g bowl',
     calories: 330,
     nutritionalInfo: {

@@ -84,6 +84,11 @@ export const ProductCustomizerModal: React.FC<ProductCustomizerModalProps> = ({
                 src={product.imageUrl}
                 alt={product.name}
                 referrerPolicy="no-referrer"
+                onError={(e) => {
+                  const target = e.currentTarget;
+                  target.onerror = null;
+                  target.src = '/images/hero_fusion_spread_1789756993190.jpg';
+                }}
                 className="w-full h-full object-cover"
               />
             </div>

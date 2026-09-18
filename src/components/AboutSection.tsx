@@ -12,7 +12,7 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-5 space-y-4">
             <div className="relative rounded-3xl overflow-hidden shadow-xl border-4 border-white aspect-4/5 bg-[#FAF4ED]">
               <img
-                src="/src/assets/images/hero_fusion_spread_1789756993190.jpg"
+                src="/images/hero_fusion_spread_1789756993190.jpg"
                 alt="Entre Arepas y Ropa Vieja dining table with Colombian arepas and Cuban ropa vieja"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"

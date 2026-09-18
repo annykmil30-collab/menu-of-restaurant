@@ -36,6 +36,11 @@ export const ProductCard: React.FC<ProductCardProps> = ({
           src={product.imageUrl}
           alt={product.name}
           referrerPolicy="no-referrer"
+          onError={(e) => {
+            const target = e.currentTarget;
+            target.onerror = null;
+            target.src = '/images/hero_fusion_spread_1789756993190.jpg';
+          }}
           className="w-full h-full object-cover group-hover:scale-103 transition-transform duration-500"
           loading="lazy"
         />
